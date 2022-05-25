@@ -1,11 +1,18 @@
 from importer import import_games
 
-def get_publisher(video_games):
-  publishers = set()
+def get_consoles(video_games):
+  consoles = set()
   for game in video_games:
-    publishers.add(game["Publisher"])
-  return publishers
+    consoles.add(game["Release"]["Console"])
+  return consoles
+
+def sales_by_consoles(video_games):
+  result = {console: 0 for console in get_consoles(video_games)}
+  for game in video_games:
+    game_console = game["Release"]["Console"]
+    result[game_console] += game["Metrics"]["Sales"]
+  return result
 
 if __name__ == "__main__":
   games = import_games("video_games.json")
-  print(get_publisher(games))
+  print(sales_by_consoles(games))
