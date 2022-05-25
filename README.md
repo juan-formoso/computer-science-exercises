@@ -1,7 +1,5 @@
 # Computer Science Exercises
 
-This repository contains all the exercises I've completed while studying Computer Science at Trybe and during my journey to become a successful programmer aswell.
+This repository contains all the exercises I've completed while studying Computer Science.
 
 Feel free to explore it! :)
-
-In case of curiosity: Trybe's course features over 1,500 hours of classes covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
