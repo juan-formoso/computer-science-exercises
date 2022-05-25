@@ -1,0 +1,17 @@
+Where are your programs stored when they are running?
+
+- Memory.
+
+
+1. O CPU processa todos os comandos solicitados nos programas.
+2. Hard-Drive is a secondary storage. (funciona para processos que precisam durar mais tempo)
+
+*DEFINITIONS*
+
+- Central Processing Unit: Runs the program - the CPU is always wondering "what to do next". Not the brains exactly - very dumb but very very fast.
+- Input devices: Keyboard, Mouse, Touch Screen.
+- Output devices: Screen, Speakers, Printer, DVD Burner
+- Main Memory: Fast small temporary storage - lost on reboot - aka RAM
+- Secondary Memory: Slower large permanent storage - lasts until deleted - disk drive / memory stick
+
+* Ocorre um processo de transpilação do código para a linguagem em máquina onde o computador será capaz de entender os comandos solicitados.

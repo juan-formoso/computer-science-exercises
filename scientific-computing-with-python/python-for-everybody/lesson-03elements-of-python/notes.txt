@@ -1,0 +1,64 @@
+ELEMENTS OF PYTHON
+
+1. Vocabulary / Words - Variables and Reserved word
+2. Sentence structure - valid syntax patterns
+3. Story structure - constructing a program for a purpose
+
+RESERVED Words
+
+* You cannot use reserved words as variables names / identifiers
+  - False
+  - None
+  - True
+  - and
+  - as
+  - assert
+  - break
+  - class
+  - if
+  - def
+  - del
+  - elif
+  - else
+  - except
+  - return
+  - for
+  - from
+  - global
+  - try
+  - import
+  - in
+  - is
+  - lambda
+  - while
+  - not 
+  - or
+  - pass
+  - raise
+  - finally
+  - continue
+  - nonlocal
+  - with
+  - yield 
+
+SENTENCES OR LINES
+
+x = 2 <-- Assignment statement
+x = x + 2 <-- Assignment with expression
+print(x) <-- Print statement
+
+PYTHON SCRIPTS
+
+* Interactive Python is good for experiments and programs of 3-4 lines long.
+* Most programs are much longer, so we type them into a file and tell Python to run the commands in the file.
+* In a sense, we are "giving Python a script".
+* As a convention, we add ".py" as the suffix on the end of these files to indicate they contain Python.
+
+PROGRAMS STEPS OR PROGRAM FLOW
+
+* Like a recipe or installation instructions, a program is a sequence of steps to be done in order.
+* Some steps are conditional - they may be skipped.
+* Sometimes a step or group of steps is to be repeated.
+* Sometimes we store a set of steps to be used over and over as needed several places throughout the program.
+
+- Python funciona como cascata.

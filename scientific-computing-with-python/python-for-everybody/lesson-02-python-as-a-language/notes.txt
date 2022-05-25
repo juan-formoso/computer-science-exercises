@@ -1,0 +1,19 @@
+Early Learner: Syntax Errors
+
+* We need to learn the *Python language* so we can communicate our instructions to Python. In the beggining we will make lots of mistakes and speak gibberish like small children.
+
+* When you make a mistake, the computer does not think you are "cute". It says "syntax error" - given that it knows the language and you are just learning it. It seems like Python is cruel and unfeeling.
+
+* You must remember that you are intelligent and can learn. The computer is simple and very fast, but cannot learn. So it is easier for you to learn Python than for the computer to learn human language.
+
++ To access the python terminal you can use "python3" in terminal.
+  - You can make simple things in python terminal like:
+    a) x = 1
+    b) print(x)
+      1
+    c) x = x + 1
+    d) print (x)
+      2
+    e) Math operations
+  - To exit use: exit()
+  
