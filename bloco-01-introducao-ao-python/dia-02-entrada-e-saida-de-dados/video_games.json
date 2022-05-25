@@ -1,0 +1,93 @@
+[
+  {
+    "Title": "Super Mario Bros",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "1985",
+    "Sales": "1,890,000"
+  },
+  {
+    "Title": "Super Mario Bros 2",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "1988",
+    "Sales": "2,000,000"
+  },
+  {
+    "Title": "Super Mario Bros 3",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "1990",
+    "Sales": "2,100,000"
+  },
+  {
+    "Title": "Super Mario World",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "1990",
+    "Sales": "2,450,000"
+  },
+  {
+    "Title": "Super Mario 64",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "1996",
+    "Sales": "2,500,000"
+  },
+  {
+    "Title": "Super Mario Sunshine",
+    "Genre": "Platformer",
+    "Publisher": "Nintendo",
+    "Release Date": "2002",
+    "Sales": "600,000"
+  },
+  {
+    "Title": "Resident Evil",
+    "Genre": "Survival Horror",
+    "Publisher": "Capcom",
+    "Release Date": "2002",
+    "Sales": "1,000,003"
+  },
+  {
+    "Title": "Resident Evil 2",
+    "Genre": "Survival Horror",
+    "Publisher": "Capcom",
+    "Release Date": "2004",
+    "Sales": "1,000,550"
+  },
+  {
+    "Title": "Call of Duty",
+    "Genre": "First Person Shooter",
+    "Publisher": "Activision",
+    "Release Date": "2001",
+    "Sales": "10,000,000"
+  },
+  {
+    "Title": "Call of Duty 2",
+    "Genre": "First Person Shooter",
+    "Publisher": "Activision",
+    "Release Date": "2003",
+    "Sales": "10,100,000"
+  },
+  {
+    "Title": "Silent Hill",
+    "Genre": "Psychological Horror",
+    "Publisher": "Sony Computer Entertainment",
+    "Release Date": "2002",
+    "Sales": "35,000,000"
+  },
+  {
+    "Title": "Portal 2",
+    "Genre": "Puzzle",
+    "Publisher": "Valve",
+    "Release Date": "2004",
+    "Sales": "400,000"
+  },
+  {
+    "Title": "Minecraft",
+    "Genre": "Sandbox",
+    "Publisher": "Mojang",
+    "Release Date": "2009",
+    "Sales": "870,000"
+  }
+]
