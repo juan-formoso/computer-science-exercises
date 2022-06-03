@@ -78,6 +78,14 @@ print this!
 Done!
 ```
 
+## Indefinite Loops
+
+- While loops are called **"indefinite loops"** because they keep going until a logical condition becomes **False**.
+
+- The loops we have seen so far are pretty easy to examine to see if they will terminate or if they will be "infinite loops".
+
+- Sometimes it is a little harder to be sure if a loop will terminate.
+
 ### Question
 
 **What will the following code print out?:**
